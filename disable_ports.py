@@ -26,7 +26,7 @@ SWITCH = {
     "password": password,
 }
 
-DRY_RUN = False
+DRY_RUN = True
 WEEKS_THRESHOLD = 26
 
 IGNORE_PREFIXES = ("OR-", "NS-", "PX-", "SL-")
